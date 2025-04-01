@@ -21,7 +21,7 @@ The AI-Based Traffic Management System is designed to optimize urban traffic flo
 
 ## 📂 Installation
 ```bash
-git clone 
+git clone https://github.com/adityaKumar9798/AI-powered-Traffic-Management-system.git
 cd AI-Traffic-Management
 npm install
 npm start
